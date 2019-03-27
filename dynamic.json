@@ -1,0 +1,45 @@
+{
+	"profile": {
+		"image": "images/drop.jpg",
+		"name": "Rain Drop",
+		"designation": "student",
+		"mobile": "0979090933",
+		"email": "bhanuprakash.d111@gmail.com"
+	},
+	"career": {
+		"info": "play unknown's battleground"
+
+	},
+	"education": [{
+			"institute": "mits",
+			"qualification": "btech",
+			"department": "cse",
+			"percentage": "92%"
+
+		},
+		{
+			"institute": "inter",
+			"qualification": "inter",
+			"department": "mpc",
+			"percentage": "97%"
+
+		},
+		{
+			"institute": "saividyanikethan",
+			"qualification": "10th clss",
+			"department": "no department",
+			"percentage": "90%"
+
+		}
+	],
+	"skills": [{
+			"name": "web technolohies",
+			"info": "[html,css,js]"
+		},
+		{
+			"name": "database",
+			"info": ["jdbc", "firebase", "sql"]
+
+		}
+	]
+}
